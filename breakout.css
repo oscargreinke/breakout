@@ -1,0 +1,6 @@
+#gameCanvas {
+    background-color: darkorange;
+    border: 1px solid black;
+    height: 100%;
+    width: 100%;
+}
